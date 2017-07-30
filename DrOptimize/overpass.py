@@ -1,4 +1,6 @@
 '''
+Directly queries and does initial processing with Open Street Map.
+
 Created on Jul 16, 2017
 
 @author: Daniel

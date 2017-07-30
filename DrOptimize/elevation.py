@@ -1,4 +1,6 @@
 '''
+Retrieve and process data from the Google Maps Elevation API.
+
 Created on Jul 17, 2017
 
 @author: Daniel

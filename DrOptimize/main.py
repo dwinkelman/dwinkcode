@@ -1,4 +1,6 @@
 '''
+Quick testing module for the program.
+
 Created on Jul 14, 2017
 
 @author: Daniel
@@ -6,8 +8,9 @@ Created on Jul 14, 2017
 
 import overpy
 
-import overpass as overpass
 import elevation as elevation
+import overpass as overpass
+import route as route
 import visualize as visualize
 import util as util
 
@@ -33,10 +36,15 @@ if __name__ == "__main__":
     
     flattened_nodes = [node for path in paths for node in path.nodes]
     
+    print "Finding shortest route..."
+    myroute = route.OptimizeDistance(paths, intersections, intersections[0], intersections[20])
+    
     print "Displaying map..."
     disp = visualize.MapDisplay(resolution=(500, 700), geobounds=(36.045, -80.415, 36.085, -80.375))
     for path in paths:
         disp.DrawPath(path.nodes, (0, 0, 0), 1)
     #disp.DisplayElevationDots([(util.Coord.FromNode(node), node.elevation) for node in flattened_nodes])
     disp.DisplayElevationDots(elpoints)
+    for node in myroute:
+        disp.DrawNode(node, (0, 0, 255), 4)
     disp.Show()
