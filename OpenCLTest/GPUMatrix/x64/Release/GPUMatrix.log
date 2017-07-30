@@ -1,0 +1,11 @@
+﻿  gpu.cpp
+  matrix.cpp
+matrix.cpp(9): warning C4996: 'clCreateCommandQueue': was declared deprecated
+  C:\Cygwin\home\Daniel\c++\3rd_Party\include\CL/cl.h(1443): note: see declaration of 'clCreateCommandQueue'
+matrix.cpp(301): warning C4018: '<': signed/unsigned mismatch
+matrix.cpp(319): warning C4018: '<': signed/unsigned mismatch
+matrix.cpp(337): warning C4018: '<': signed/unsigned mismatch
+matrix.cpp(351): warning C4018: '<': signed/unsigned mismatch
+matrix.cpp(360): warning C4018: '<': signed/unsigned mismatch
+matrix.cpp(378): warning C4018: '<': signed/unsigned mismatch
+  GPUMatrix.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Release\GPUMatrix.dll

@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Generating code
+  71 of 284 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NeuralNetwork.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Release\NeuralNetwork.exe
+  NeuralNetwork.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Release\NeuralNetwork.pdb (Full PDB)

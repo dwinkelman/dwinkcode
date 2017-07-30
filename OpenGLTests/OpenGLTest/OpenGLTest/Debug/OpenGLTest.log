@@ -1,0 +1,12 @@
+﻿  cube.cpp
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(38): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(188): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(225): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opengltests\opengltest\opengltest\cube.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGLTest.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenGLTests\OpenGLTest\Debug\OpenGLTest.exe
+  OpenGLTest.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenGLTests\OpenGLTest\Debug\OpenGLTest.pdb (Full PDB)

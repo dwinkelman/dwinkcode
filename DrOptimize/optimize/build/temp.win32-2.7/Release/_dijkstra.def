@@ -1,0 +1,3 @@
+LIBRARY _dijkstra.pyd
+EXPORTS
+init_dijkstra

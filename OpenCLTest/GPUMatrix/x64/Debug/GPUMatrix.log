@@ -1,0 +1,9 @@
+﻿  matrix.cpp
+c:\cygwin\home\daniel\c++\opencltest\gpumatrix\matrix.h(68): warning C4244: 'argument': conversion from 'const float_' to 'int', possible loss of data
+c:\cygwin\home\daniel\c++\opencltest\gpumatrix\matrix.cpp(329): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin\home\daniel\c++\opencltest\gpumatrix\matrix.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin\home\daniel\c++\opencltest\gpumatrix\matrix.cpp(371): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin\home\daniel\c++\opencltest\gpumatrix\matrix.cpp(385): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin\home\daniel\c++\opencltest\gpumatrix\matrix.cpp(397): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin\home\daniel\c++\opencltest\gpumatrix\matrix.cpp(418): warning C4018: '<': signed/unsigned mismatch
+  GPUMatrix.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Debug\GPUMatrix.dll

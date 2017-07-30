@@ -1,0 +1,65 @@
+﻿  glad.c
+c:\cygwin\home\daniel\c++\3rd_party\src\glad.c(177): warning C4090: 'function': different 'const' qualifiers
+  triangle.cpp
+  texture.cpp
+  shader_class.cpp
+  shader.cpp
+  perspective.cpp
+  main.cpp
+  hello.cpp
+  callbacks.cpp
+  Generating Code...
+callbacks.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "void __cdecl process_input(struct GLFWwindow *)" (?process_input@@YAXPEAUGLFWwindow@@@Z)
+callbacks.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function "void __cdecl process_input(struct GLFWwindow *)" (?process_input@@YAXPEAUGLFWwindow@@@Z)
+triangle.obj : error LNK2001: unresolved external symbol glfwInit
+hello.obj : error LNK2001: unresolved external symbol glfwInit
+perspective.obj : error LNK2001: unresolved external symbol glfwInit
+shader_class.obj : error LNK2001: unresolved external symbol glfwInit
+texture.obj : error LNK2001: unresolved external symbol glfwInit
+triangle.obj : error LNK2001: unresolved external symbol glfwTerminate
+hello.obj : error LNK2001: unresolved external symbol glfwTerminate
+perspective.obj : error LNK2001: unresolved external symbol glfwTerminate
+shader_class.obj : error LNK2001: unresolved external symbol glfwTerminate
+texture.obj : error LNK2001: unresolved external symbol glfwTerminate
+triangle.obj : error LNK2001: unresolved external symbol glfwWindowHint
+hello.obj : error LNK2001: unresolved external symbol glfwWindowHint
+perspective.obj : error LNK2001: unresolved external symbol glfwWindowHint
+shader_class.obj : error LNK2001: unresolved external symbol glfwWindowHint
+texture.obj : error LNK2001: unresolved external symbol glfwWindowHint
+triangle.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+hello.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+perspective.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+shader_class.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+texture.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+triangle.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+hello.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+perspective.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+shader_class.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+texture.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+triangle.obj : error LNK2001: unresolved external symbol glfwSetFramebufferSizeCallback
+hello.obj : error LNK2001: unresolved external symbol glfwSetFramebufferSizeCallback
+perspective.obj : error LNK2001: unresolved external symbol glfwSetFramebufferSizeCallback
+shader_class.obj : error LNK2001: unresolved external symbol glfwSetFramebufferSizeCallback
+texture.obj : error LNK2001: unresolved external symbol glfwSetFramebufferSizeCallback
+triangle.obj : error LNK2001: unresolved external symbol glfwPollEvents
+hello.obj : error LNK2001: unresolved external symbol glfwPollEvents
+perspective.obj : error LNK2001: unresolved external symbol glfwPollEvents
+shader_class.obj : error LNK2001: unresolved external symbol glfwPollEvents
+texture.obj : error LNK2001: unresolved external symbol glfwPollEvents
+triangle.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+hello.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+perspective.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+shader_class.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+texture.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+triangle.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+hello.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+perspective.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+shader_class.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+texture.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+triangle.obj : error LNK2001: unresolved external symbol glfwGetProcAddress
+hello.obj : error LNK2001: unresolved external symbol glfwGetProcAddress
+perspective.obj : error LNK2001: unresolved external symbol glfwGetProcAddress
+shader_class.obj : error LNK2001: unresolved external symbol glfwGetProcAddress
+texture.obj : error LNK2001: unresolved external symbol glfwGetProcAddress
+C:\Cygwin\home\Daniel\c++\3rd_Party\lib\glfw3.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Cygwin\home\Daniel\c++\OpenGLTests\OpenGLTest\x64\Debug\OpenGLTest.exe : fatal error LNK1120: 12 unresolved externals

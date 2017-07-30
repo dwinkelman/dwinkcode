@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCLTest", "OpenCLTest\OpenCLTest.vcxproj", "{306730BD-ED55-40BB-8A5B-71E29271628D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.vcxproj", "{9E18419E-2D46-4996-B835-2D822BBEE33F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPUMatrix", "GPUMatrix\GPUMatrix.vcxproj", "{A895B264-F59F-4707-9B79-65FBFCD676C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Debug|x64.ActiveCfg = Debug|x64
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Debug|x64.Build.0 = Debug|x64
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Debug|x86.ActiveCfg = Release|x64
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Debug|x86.Build.0 = Release|x64
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Release|x64.ActiveCfg = Release|x64
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Release|x64.Build.0 = Release|x64
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Release|x86.ActiveCfg = Release|x64
+		{306730BD-ED55-40BB-8A5B-71E29271628D}.Release|x86.Build.0 = Release|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Debug|x64.ActiveCfg = Debug|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Debug|x64.Build.0 = Debug|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Debug|x86.ActiveCfg = Release|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Debug|x86.Build.0 = Release|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Release|x64.ActiveCfg = Release|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Release|x64.Build.0 = Release|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Release|x86.ActiveCfg = Release|x64
+		{9E18419E-2D46-4996-B835-2D822BBEE33F}.Release|x86.Build.0 = Release|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Debug|x64.ActiveCfg = Debug|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Debug|x64.Build.0 = Debug|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Debug|x86.ActiveCfg = Release|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Debug|x86.Build.0 = Release|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Release|x64.ActiveCfg = Release|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Release|x64.Build.0 = Release|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Release|x86.ActiveCfg = Release|x64
+		{A895B264-F59F-4707-9B79-65FBFCD676C7}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

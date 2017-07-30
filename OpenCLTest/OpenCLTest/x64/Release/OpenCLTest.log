@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\cygwin\home\daniel\c++\opencltest\opencltest\matrix.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin\home\daniel\c++\opencltest\opencltest\neural_network.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+main.cpp(26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+main.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  11 of 263 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    44 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCLTest.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Release\OpenCLTest.exe
+  OpenCLTest.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Release\OpenCLTest.pdb (Full PDB)

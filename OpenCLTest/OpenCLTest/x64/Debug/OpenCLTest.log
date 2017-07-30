@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\cygwin\home\daniel\c++\opencltest\opencltest\matrix.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\cygwin\home\daniel\c++\opencltest\opencltest\neural_network.h(10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\cygwin\home\daniel\c++\opencltest\opencltest\main.cpp(26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\cygwin\home\daniel\c++\opencltest\opencltest\main.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenCLTest.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Debug\OpenCLTest.exe
+  OpenCLTest.vcxproj -> C:\Cygwin\home\Daniel\c++\OpenCLTest\x64\Debug\OpenCLTest.pdb (Full PDB)
